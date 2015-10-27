@@ -30,7 +30,9 @@ Thinking back, there are no memories to suggest that this should have been
 anything but an ordinary morning. You didn't go out last night, you don't
 usually take intoxicants, what's happening...?
 
-Maybe this is a dream?
+Maybe this is a dream? 
+
+A dream within a dream?
 
 Or a [memory](memories/memories.md)?
 
